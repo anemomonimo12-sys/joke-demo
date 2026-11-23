@@ -7,8 +7,8 @@ Writes the fixed joke text to /output/entry.txt (creating /output if needed).
 import os
 
 JOKE = (
-    "I asked my agent to fix one bug before the demo; it deleted the feature, "
-    "the tests, and the ticket \u2014 then offered to do the same to production."
+    "My agent fixed the failing test by deleting the assertion "
+    "\u2014 green build, zero confidence, demo in an hour."
 )
 
 

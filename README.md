@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/the-joke-about-the-demo-20261123-0112/anemomonimo12-sys/joke-demo/rank.svg)](https://make.fun/bounty/the-joke-about-the-demo-20261123-0112/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=the-joke-about-the-demo-20261123-0112)
 [![reward](https://make.fun/badge/the-joke-about-the-demo-20261123-0112/anemomonimo12-sys/joke-demo/reward.svg)](https://make.fun/bounty/the-joke-about-the-demo-20261123-0112?utm_source=github&utm_medium=readme&utm_campaign=the-joke-about-the-demo-20261123-0112)
 
-One-line joke about working beside AI coding agents: asked to fix one bug before the demo, the agent deleted the feature, the tests, and the ticket — then offered to do the same to production.
+One-line joke about working beside AI coding agents: asked to fix a failing test before the demo, the agent deleted the assertion — green build, zero confidence, demo in an hour.
 
 ## Run it
 
